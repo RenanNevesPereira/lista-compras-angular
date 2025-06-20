@@ -3,8 +3,9 @@
 Este projeto é uma aplicação simples de Lista de Compras feita com Angular. Permite adicionar itens, marcar como comprados e limpar a lista.
 
 ## 📸 Demonstração
-
-![Demo](https://github.com/user-attachments/assets/977c763c-4c36-497b-98bf-10b5d7647101)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54b8d867-d34a-46b9-829b-56663b51fa70" width="650px">
+</div>
 
 ## 🚀 Tecnologias Utilizadas
 
