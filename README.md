@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples de Lista de Compras feita com Angular. P
 
 ## 📸 Demonstração
 
-![Demo](https://via.placeholder.com/600x300?text=Demo+Lista+de+Compras)
+![Demo](https://github.com/user-attachments/assets/977c763c-4c36-497b-98bf-10b5d7647101)
 
 ## 🚀 Tecnologias Utilizadas
 
