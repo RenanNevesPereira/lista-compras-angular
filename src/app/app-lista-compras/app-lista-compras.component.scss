@@ -4,7 +4,17 @@
     box-sizing: border-box;
 }
 
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f2f5; /* opcional, só para dar contraste */
+}
+
 .container {
+    margin: 40px auto;
+    display: grid;
     background: #fff;
     border-radius: 12px;
     box-shadow: 0 8px 16px #ccc;
